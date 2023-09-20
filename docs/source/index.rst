@@ -6,6 +6,8 @@
 Welcome to demokit's documentation!
 =========================================================
 
+``demokit`` is an example MDAKit that implements the functionality of the `analysis.rms.RMSF` class within the MDAnalysis library.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

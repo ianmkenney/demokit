@@ -1,5 +1,7 @@
 name: demokit-docs
 channels:
+  - conda-forge
+  - defaults
 dependencies:
     # Base depends
   - python
@@ -8,6 +10,7 @@ dependencies:
   - sphinx<7.0
 
   - sphinx_rtd_theme
+  - sphinxcontrib-bibtex
 
     # Pip-only installs
   #- pip:
