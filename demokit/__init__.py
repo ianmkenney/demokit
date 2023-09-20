@@ -4,6 +4,7 @@ This is a demo kit.
 """
 
 # Add imports here
+from .demokit import RMSF
 
 # Handle versioneer
 from ._version import get_versions
